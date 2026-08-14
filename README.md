@@ -21,3 +21,11 @@ run  mobile_price_predict.py
 
 # Usage 
 After model is trained and saved , run predict_price.py  
+
+# App
+To run the app
+run the command  
+    
+    streamlit run app.py
+
+this will run the app in browser 
